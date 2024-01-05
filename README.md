@@ -19,6 +19,7 @@ The Furniture Donation Web App streamlines the furniture donation process by con
 ## Key Features
 
 - **User Authentication:** Secure login and registration functionality.
+- **Profile Management:** Users are able to view and edit their info.
 - **Add Furniture Listings:** Users can create detailed listings for furniture items they want to donate, including images and descriptions.
 - **View and Edit Furniture:** Owners can easily view and edit their furniture listings.
 - **Search Functionality:** Users can efficiently search for specific furniture items to meet their needs.
