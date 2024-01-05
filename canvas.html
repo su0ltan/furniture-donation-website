@@ -1,0 +1,48 @@
+function createCanvas(){
+
+
+    var side = 1000;
+    
+    var tbody = document.getElementById("tableBody");
+    for( var i = 0 ; i < side ; ++i){
+    
+    var row = document.createElement("tr");
+    
+    
+    for( var j = 0 ; i < side ; ++j){
+    
+    var column = document.createElement("td");
+    
+    row.appendChild(column);
+    }
+    tbody.appendChild(row);
+    }
+    }
+    document.getElementById("canvas").addEventListener("mousemove" ,
+    draw, false);
+    
+    
+    function draw(e){
+    if(e.target.tagName.toLowerCase =="td"){
+    
+        if(e.ctrlKey){
+      e.target.setAttribute("class" , "color:blue");
+      }
+      
+        if(e.shiftKey){
+      e.target.setAttribute("class" , "red"	);
+      }
+    
+        
+    }
+    
+    }
+    window.addEventListener("load" ,createCanvas , false);
+    
+    
+    
+    
+    
+    
+    
+    
