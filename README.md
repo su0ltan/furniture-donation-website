@@ -6,7 +6,8 @@ The Furniture Donation Web App streamlines the furniture donation process by con
 ![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/56771512-0cbc-44e1-b031-5432dd89636e)
 ![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/ff43c1c1-f734-4521-9e6d-405edfbcfe12)
 ![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/23707fa3-2568-48d9-97c0-627a292d5dbd)
-![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/9c46c89b-d2f9-45a1-b7ae-eb98173a321f)
+![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/eac0da41-daca-458f-b175-336cad27d430)
+
 
 
 
