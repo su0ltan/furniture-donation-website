@@ -4,10 +4,11 @@
 The Furniture Donation Web App streamlines the furniture donation process by connecting users willing to share their unused items with those in need. Users can effortlessly upload details and images of furniture they wish to donate, while others can easily search for specific items and send donation requests.
 This project was developed during the web application development course (SWE-381).
 
-![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/56771512-0cbc-44e1-b031-5432dd89636e)
-![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/ff43c1c1-f734-4521-9e6d-405edfbcfe12)
-![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/23707fa3-2568-48d9-97c0-627a292d5dbd)
-![image](https://github.com/su0ltan/furniture-donation-website/assets/53498277/eac0da41-daca-458f-b175-336cad27d430)
+<img width="300" height="300" alt="image" src="https://github.com/su0ltan/furniture-donation-website/assets/53498277/56771512-0cbc-44e1-b031-5432dd89636e">
+<img width="300" height="300" alt="image" src="https://github.com/su0ltan/furniture-donation-website/assets/53498277/ff43c1c1-f734-4521-9e6d-405edfbcfe12">
+<img width="300" height="300" alt="image" src="https://github.com/su0ltan/furniture-donation-website/assets/53498277/23707fa3-2568-48d9-97c0-627a292d5dbd">
+<img width="300" height="300" alt="image" src="https://github.com/su0ltan/furniture-donation-website/assets/53498277/eac0da41-daca-458f-b175-336cad27d430">
+
 
 
 
